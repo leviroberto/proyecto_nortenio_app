@@ -1,0 +1,4 @@
+#Wed Nov 11 23:55:52 COT 2020
+base.0=C\:\\wamp64\\www\\notenio\\proyect_nortenio_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

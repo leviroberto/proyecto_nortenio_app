@@ -1,0 +1,61 @@
+<svg width="863" height="769.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="4d7d6e59-78ed-4d57-a529-1eaaceade2ae" x1="0.50002" y1="1" x2="0.50002" y2="0">
+   <stop offset="0" stop-color="gray" stop-opacity="0.25"/>
+   <stop offset="0.54" stop-color="gray" stop-opacity="0.12"/>
+   <stop offset="1" stop-color="gray" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="9d815349-9c86-443c-8ccb-e4f40929397c" x1="583.59" x2="583.59" y2="175.12" xlink:href="#4d7d6e59-78ed-4d57-a529-1eaaceade2ae"/>
+  <linearGradient id="4cdc3fff-77bb-4bd8-8d4b-e4a0e24ac1ff" x1="434" x2="434" y2="118.5" xlink:href="#4d7d6e59-78ed-4d57-a529-1eaaceade2ae"/>
+  <linearGradient id="d789edb2-9260-4fe7-9b2e-c8d2cf1c50eb" x1="431.5" y1="426.5" x2="431.5" y2="23.5" xlink:href="#4d7d6e59-78ed-4d57-a529-1eaaceade2ae"/>
+  <linearGradient id="d05d60f3-4487-4cf0-bc48-be0df6e13883" x1="751.69" y1="377.75" x2="751.69" y2="246.43" xlink:href="#4d7d6e59-78ed-4d57-a529-1eaaceade2ae"/>
+  <linearGradient id="36694125-ef38-4129-b005-f3dbdd12d1fe" x1="415.98" y1="335.24" x2="415.98" y2="303.64" gradientTransform="translate(-112.25 703) rotate(-90)" xlink:href="#4d7d6e59-78ed-4d57-a529-1eaaceade2ae"/>
+  <linearGradient id="dc57276c-937a-4b5a-afe2-156d6e915e6b" x1="454.87" y1="357.11" x2="454.87" y2="325.52" gradientTransform="translate(-112.25 703) rotate(-90)" xlink:href="#4d7d6e59-78ed-4d57-a529-1eaaceade2ae"/>
+  <linearGradient id="c93c7978-2b82-4fa6-8ff4-005d931a190d" x1="435.42" y1="378.98" x2="435.42" y2="347.39" gradientTransform="translate(-112.25 703) rotate(-90)" xlink:href="#4d7d6e59-78ed-4d57-a529-1eaaceade2ae"/>
+  <linearGradient id="28ebadfe-69e4-4a26-9b70-9789031661f3" x1="489.7" y1="400.86" x2="489.7" y2="369.26" gradientTransform="translate(-112.25 703) rotate(-90)" xlink:href="#4d7d6e59-78ed-4d57-a529-1eaaceade2ae"/>
+ </defs>
+ <title>statistics</title>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="865" height="771.5" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon points="149.58 769.31 125 769.5 414.42 175.12 434.17 184.89 149.58 769.31" fill="url(#4d7d6e59-78ed-4d57-a529-1eaaceade2ae)" id="svg_1"/>
+  <polygon points="715.76 769.31 736 769.5 450.92 175.12 431.17 184.89 715.76 769.31" fill="url(#9d815349-9c86-443c-8ccb-e4f40929397c)" id="svg_2"/>
+  <rect x="423" y="118.5" width="22" height="651" fill="url(#4cdc3fff-77bb-4bd8-8d4b-e4a0e24ac1ff)" id="svg_3"/>
+  <polygon points="149.58 764.31 125 764.5 414.42 174.69 434.17 184.38 149.58 764.31" fill="#bdbdbd" id="svg_4"/>
+  <polygon points="715.76 764.31 736 764.5 450.92 174.69 431.17 184.38 715.76 764.31" fill="#bdbdbd" id="svg_5"/>
+  <rect x="423" y="118.5" width="22" height="646" fill="#bdbdbd" id="svg_6"/>
+  <path d="m431.5,66a28,28 0 0 1 -28,-28l0,-10a28,28 0 0 1 56,0l0,10a28,28 0 0 1 -28,28zm0,-59a21,21 0 0 0 -21,21l0,10a21,21 0 0 0 42,0l0,-10a21,21 0 0 0 -21,-21z" fill="#bdbdbd" id="svg_7"/>
+  <rect y="23.5" width="863" height="403" fill="url(#d789edb2-9260-4fe7-9b2e-c8d2cf1c50eb)" id="svg_8"/>
+  <rect x="8.5" y="31" width="846" height="382" fill="#bdbdbd" id="svg_9"/>
+  <rect x="23.5" y="43" width="814" height="348" fill="#fff" id="svg_10"/>
+  <path d="m653.19,56.5l-0.75,0l0,250.18l0.75,0a125.1,125.1 0 1 0 0,-250.2l0,0.02z" fill="#03e202" id="svg_11"/>
+  <path d="m649.44,55.52a125.08,125.08 0 0 0 -124.33,124.33l124.33,0l0,-124.33z" fill="#2196f3" id="svg_12"/>
+  <path d="m518.33,181.18c0,0.26 0,0.52 0,0.79a130.54,130.54 0 0 0 129.74,130.53l0,-131.32l-129.74,0z" fill="url(#d05d60f3-4487-4cf0-bc48-be0df6e13883)" id="svg_13"/>
+  <path d="m525.09,181.86c0,0.25 0,0.5 0,0.75a125.09,125.09 0 0 0 124.33,125.09l0,-125.84l-124.33,0z" fill="#4f44ff" id="svg_14"/>
+  <rect x="47" y="67.5" width="241.4" height="17.08" fill="#bdbdbd" id="svg_15"/>
+  <rect x="47" y="95.45" width="386" height="17.08" fill="#e0e0e0" id="svg_16"/>
+  <rect x="47" y="123.4" width="386" height="17.08" fill="#e0e0e0" id="svg_17"/>
+  <rect x="47" y="151.36" width="386" height="17.08" fill="#e0e0e0" id="svg_18"/>
+  <rect x="695" y="344.5" width="27" height="27" fill="#2196f3" id="svg_19"/>
+  <rect x="733" y="350.5" width="88" height="16" fill="#e0e0e0" id="svg_20"/>
+  <rect x="542" y="344.5" width="27" height="27" fill="#4f44ff" id="svg_21"/>
+  <rect x="580" y="350.5" width="88" height="16" fill="#e0e0e0" id="svg_22"/>
+  <rect x="394" y="344.5" width="27" height="27" fill="#02e232" id="svg_23"/>
+  <rect x="432" y="350.5" width="88" height="16" fill="#e0e0e0" id="svg_24"/>
+  <rect x="203.05" y="205.8" width="8.51" height="135.7" fill="#e0e0e0" id="svg_25"/>
+  <rect x="224.92" y="205.8" width="8.51" height="135.7" fill="#e0e0e0" id="svg_26"/>
+  <rect x="246.8" y="205.8" width="8.51" height="135.7" fill="#e0e0e0" id="svg_27"/>
+  <rect x="268.67" y="205.8" width="8.51" height="135.7" fill="#e0e0e0" id="svg_28"/>
+  <circle cx="207.19" cy="287.02" r="15.8" fill="url(#36694125-ef38-4129-b005-f3dbdd12d1fe)" id="svg_29"/>
+  <circle cx="229.06" cy="248.13" r="15.8" fill="url(#dc57276c-937a-4b5a-afe2-156d6e915e6b)" id="svg_30"/>
+  <circle cx="250.94" cy="267.58" r="15.8" fill="url(#c93c7978-2b82-4fa6-8ff4-005d931a190d)" id="svg_31"/>
+  <circle cx="272.81" cy="213.3" r="15.8" fill="url(#28ebadfe-69e4-4a26-9b70-9789031661f3)" id="svg_32"/>
+  <circle cx="207.19" cy="287.02" r="13.37" fill="#4f44ff" id="svg_33"/>
+  <circle cx="229.06" cy="248.13" r="13.37" fill="#02e232" id="svg_34"/>
+  <circle cx="250.94" cy="267.58" r="13.37" fill="#2196f3" id="svg_35"/>
+  <circle cx="272.81" cy="213.3" r="13.37" fill="#4f44ff" id="svg_36"/>
+ </g>
+</svg>

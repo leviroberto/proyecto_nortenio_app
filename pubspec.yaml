@@ -1,0 +1,133 @@
+name: proyect_nortenio_app
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application. 
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+  flutter_secure_storage: ^3.3.3
+  shared_preferences: ^0.5.12+2
+  intl: ^0.16.1
+  get: ^3.10.2
+  after_layout: ^1.0.7+2
+  flutter_svg: ^0.18.0
+  rounded_loading_button: ^1.0.0
+  http: ^0.12.2
+  curved_navigation_bar: ^0.3.3
+  pull_to_refresh: ^1.6.0
+  flutter_slidable: ^0.5.5
+  searchable_dropdown: ^1.1.3
+  flutter_launcher_icons: ^0.8.1
+  fl_chart: ^0.12.0
+  google_maps_flutter: ^0.5.27+3
+  location: ^3.0.2
+  geocoder: ^0.2.1
+  url_launcher: ^5.7.10
+  flutter_datetime_picker: ^1.4.0
+  folding_cell: ^1.0.0
+  font_awesome_flutter: ^8.10.0
+  diacritic: ^0.1.1
+  charts_flutter: ^0.9.0
+  connectivity: ^0.4.9+5
+  bubble_tab_indicator: ^0.1.4
+  shape_of_view: ^1.0.2
+  firebase_messaging: ^7.0.3
+  webview_flutter: ^1.0.7
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/pages/images/logo.png"
+  
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/pages/login/estadistica.svg
+    - assets/pages/login/fondo.svg
+    - assets/pages/login/direccion.svg
+    - assets/pages/login/logo.svg
+    - assets/pages/icons/facebook.svg
+    - assets/pages/icons/google.svg
+    - assets/pages/images/elmer.jpg
+    - assets/pages/images/exito.png
+    - assets/pages/images/next.svg
+    - assets/pages/images/empresa_smg.svg
+    - assets/pages/images/empresa.svg
+    - assets/pages/images/admin.svg
+    - assets/pages/images/logo.png
+    - assets/pages/images/logoapp.png
+    - assets/pages/images/permiso.svg
+    - assets/pages/images/puntoventa.svg
+    - assets/pages/images/sucursal.svg
+    - assets/pages/images/zona.svg
+    - assets/pages/images/calendario.svg
+    - assets/pages/images/distribuidor.svg
+    - assets/pages/images/ventasanuales.svg
+    - assets/pages/images/bicicleta.svg
+    - assets/pages/images/file.svg
+    - assets/pages/images/faq.svg
+    - assets/pages/images/power.svg
+    - assets/pages/images/vacio.svg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: sans
+      fonts:
+        - asset: assets/fonts/OpenSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/OpenSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/OpenSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/OpenSans-Bold.ttf
+          weight: 700
+    - family: poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

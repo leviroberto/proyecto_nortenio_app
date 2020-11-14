@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598425035063",
+    "firebase_url": "https://nortenioapp.firebaseio.com",
+    "project_id": "nortenioapp",
+    "storage_bucket": "nortenioapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598425035063:android:623d28cbc48a96eaef7ab2",
+        "android_client_info": {
+          "package_name": "velasquez.com.proyect_nortenio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598425035063-9bvgtr9v02c5l8hgrkvid0cfoleni3ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "velasquez.com.proyect_nortenio_app",
+            "certificate_hash": "75f1b107b27f9c0acd9e9fcc69a8fff82cdc035c"
+          }
+        },
+        {
+          "client_id": "598425035063-4icg4sr8odnaus4s7iducjhc3701bh15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9IV_7BwmWDrU04rkqZq_YPjfNZNNHkCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598425035063-4icg4sr8odnaus4s7iducjhc3701bh15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
